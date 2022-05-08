@@ -11,3 +11,7 @@ I pledge to complete this 100 days of coding challenge. #100DaysOfCode
 * [Day 04](/Day04)
 
 * [Day 05](/Day05)
+
+* [Day 06](/Day06)
+
+* [Day 07](/Day07)
