@@ -23,4 +23,10 @@ I pledge to complete this 100 days of python 🐍 coding challenge #100DaysOfCod
 
 * [Day 07](/Day07)
 
+* [Day 08](/Day08)
+
+* [Day 09](/Day09)
+
+* [Day 19](/Day10)
+
 ## 🏋🏻‍♂️ Intermediate 
